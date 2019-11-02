@@ -2,5 +2,5 @@
 auto lo
 iface lo inet loopback
 
-auto eth0
-iface eth0 inet dhcp
+auto ib0
+iface ib0 inet dhcp
