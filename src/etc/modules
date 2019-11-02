@@ -43,3 +43,8 @@ ip_tables
 cdrom
 sr_mod
 sg
+
+## Mellanox Drivers
+mlx5_core
+mlx5_ib
+#ib_ipoib
