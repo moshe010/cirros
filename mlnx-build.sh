@@ -1,6 +1,6 @@
 #!/bin/bash
 
-br_ver="2019.02.1"
+br_ver="2019.08.1"
 mkdir -p ../download
 ln -snf ../download download
 ( cd download && wget http://buildroot.uclibc.org/downloads/buildroot-${br_ver}.tar.gz )
