@@ -47,4 +47,5 @@ sg
 ## Mellanox Drivers
 mlx5_core
 mlx5_ib
-#ib_ipoib
+mlx4_en
+mlx4_ib
